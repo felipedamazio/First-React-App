@@ -1,0 +1,20 @@
+
+$backgroundColor:#121214;
+$fontColor:#35c1eb;
+$fontSize:10em;
+
+
+body{
+
+    background-color:$backgroundColor ;
+    color: $fontColor;
+    font-size:$fontSize;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2em;
+
+   
+}
+
+
