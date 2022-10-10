@@ -7,7 +7,19 @@
 
 # Descrição do Projeto
 <p align="center">PRIMEIRO REACT</p>
+<p align="center"> Vite 3.0 </p>
 <p align="center"> Imprimi na tela minhas primeiras palavras usando React e decidi compartilhar com vocês </p>
+
+<p align="center">BAIXE O PROJETO</p>
+<p align="center"> npm install </p>
+<p align="center"> INSTALAR AS DEPENDENCIAS SASS (yarn ou npm add --dev sass / npm i -D sass) </p>
+<p align="center"> cd First-React-App </p>
+<p align="center"> npm run dev </p>
+
+
+
+
+
 
 
 <h1 align="center">
