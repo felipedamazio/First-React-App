@@ -12,7 +12,7 @@
 
 <p align="center">BAIXE O PROJETO</p>
 <p align="center"> npm install </p>
-<p align="center"> INSTALAR AS DEPENDENCIAS SASS (yarn ou npm add --dev sass / npm i -D sass) </p>
+<p align="center"> INSTALAR AS DEPENDENCIAS SASS (npm add --dev sass / npm i -D sass) </p>
 <p align="center"> cd First-React-App </p>
 <p align="center"> npm run dev </p>
 
